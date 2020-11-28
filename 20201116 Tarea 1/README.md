@@ -14,7 +14,7 @@
          1. Demo y Laboratorio Módulo 1: revisar programación C# (archivos *.cs para controladores y clases de Modelo, archivos **.cshtml para vistas), crear páginas, vistas, controladores, importar código e imágenes.
 6. **Dificultad o problemas presentados y como se resolvieron:** 
    
-      1. Demo y Laboratorio Módulo 1:  al crear la vista en MVC, no aparecían las opciones indicadas y tuve que crear una vista Razor y luego pegar el contenido de la solución.
+      1. Laboratorio Módulo 1:  al crear la vista en MVC, no aparecían las opciones indicadas y tuve que crear una vista Razor y luego pegar el contenido de la solución.
 7. **Detalles de la entrega**:
    
       1. **Evidencias capturas de pantalla en carpetas**: **MOD * Capturas**. ( ruta: ...\\CFTIC610-20486-Core-MVC-Tareas\20201116 Tarea 1\MOD * Capturas).
