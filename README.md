@@ -9,6 +9,7 @@ Contenido de las carpetas:
 * *20201207 Tarea 4* : contiene el trabajo realizado con *20486D_MOD04_DEMO.md* y *20486D_MOD04_LAK.md*.
 * *20201208 Tarea 5* : contiene el trabajo realizado con *20486D_MOD05_DEMO.md* y *20486D_MOD05_LAK.md*.
 * *20201212 Tarea 6* : contiene el trabajo realizado con *20486D_MOD06_DEMO.md* y *20486D_MOD06_LAK.md*.
+* *20202212 Tarea 10* : contiene el trabajo realizado con *20486D_MOD10_DEMO.md* y *20486D_MOD10_LAK.md*.
 * *20201213 Tarea 11* : contiene el trabajo realizado con *20486D_MOD06_DEMO.md* y *20486D_MOD06_LAK.md*.
 * *20201213 Tarea 12* : contiene el trabajo realizado con *20486D_MOD06_DEMO.md* y *20486D_MOD06_LAK.md*.
 
