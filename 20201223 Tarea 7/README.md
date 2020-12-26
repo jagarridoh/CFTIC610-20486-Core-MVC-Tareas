@@ -4,7 +4,7 @@
 
 3. **Laboratorios / Demos**: 
    - **Demo Módulo 7**: Fichero de Instrucciones: Instructions\20486D_MOD07_DEMO.md. 
-   - **Laboratorio Módulo 10**: Fichero de Instrucciones: Instructions\20486D_MOD07_LAK.md
+   - **Laboratorio Módulo 7**: Fichero de Instrucciones: Instructions\20486D_MOD07_LAK.md
 4. **Resumen del Ejercicio:**
    * **Objetivos**: 
       * Demo y Laboratorio Módulo 07: 
