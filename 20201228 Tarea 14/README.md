@@ -23,7 +23,9 @@
    * Los que vimos en clase.
    * Hizo falta crear la columna nueva *ImageURL* a mano desde Azure. Es debido a  que tuve que repetir la práctica con un nuevo proyecto en local pero no repetí la parte de Azure y entonces no funcionaron las migraciones de BD.
 
-6. **Detalles de la entrega**:
+6. **Detalles de la entrega**: 
+
+   * La aplicación se puede ver en: http://underwaterjagh.azurewebsites.net/
 
    * **Evidencias capturas de pantalla en carpetas**: **MOD * Capturas**. ( ruta: ...\\CFTIC610-20486-Core-MVC-Tareas\20201228 Tarea 14\MOD * Capturas).
 
